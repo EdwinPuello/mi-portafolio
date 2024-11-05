@@ -66,10 +66,10 @@ This will open up the project on a browser on `http://localhost:5173/`
 
 ## Build
 
-- To create a production build:
+- To create a production build and run bulding in github pages:
 
 ```
-npm run build
+npm run deploy
 ```
 
 - To preview the site as it will appear once deployed:
