@@ -52,6 +52,7 @@ import space from './projects/space-hub.png';
 import phone from './icons/phone.png'
 import angular from './tech/angular.png'
 import ionic from './tech/ionic.png'
+import aluraGeeek from './projects/aluraGeek.png'
 
 export {
   edwin,
@@ -104,4 +105,5 @@ export {
   dcc,
   kelhel,
   microverse,
+  aluraGeeek,
 };

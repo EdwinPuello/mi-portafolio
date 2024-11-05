@@ -52,7 +52,8 @@ const resources = {
       subtitle: "Case Studies",
       description: "Here are some of my most notable projects, with brief descriptions, links to repositories, and live demos. Despite my work commitments, I make time for my personal projects and will keep adding more as I go along.",
       description1: "It consists of an encryptor and decryptor for text based on specific rules.",
-      description2: "It consists of a personal project to manage the sales of my own business."
+      description2: "It consists of a personal project to manage the sales of my own business.",
+      description3: "It consists of a project that manipulates the DOM using JavaScript, featuring product listings and the ability to add and remove items."
     }
     }
   },
@@ -106,6 +107,7 @@ const resources = {
         description: "A continuación, presento algunos de mis proyectos más destacados, con breves descripciones, y algunos con enlaces a repositorios y todos con demos en vivo. A pesar de mis compromisos laborales, me esfuerzo por dedicar tiempo a mis proyectos personales, y seguiré añadiendo más a medida que avance.",
         description1: "Consiste en un encriptador y desencriptador de texto basado en reglas específicas.",
         description2: "Consiste en un proyecto personal para poder administrar las ventas de mi propio negocio.",
+        description3: "Consiste en un proyecto que manipula el DOM con JavaScript, donde tenemos listados de productos y la capacidad de agregar y eliminar elementos."
       }
     }
   }

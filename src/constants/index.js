@@ -12,6 +12,7 @@ import {
   git,
   figma,
   komikult,
+  aluraGeeek,
   leaderboard,
   math,
   movie,
@@ -172,6 +173,28 @@ const projects = [
     image: leaderboard,
     repo: 'https://github.com/EdwinPuello/posApp',
     demo: 'https://posdigital360.com/',
+  },
+  {
+    id: 'project-3',
+    name: 'AluraGeek',
+    description: 'projects.description3',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'mongodb',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'tailwind',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: aluraGeeek,
+    repo: 'https://github.com/EdwinPuello/AluraGeek',
+    demo: 'https://edwinpuello.github.io/AluraGeek/',
   },
 ];
 
