@@ -20,6 +20,7 @@ import {
   space,
   coverhunt,
   dcc,
+  aluraFlix,
   kelhel,
   microverse,
   phone,
@@ -195,6 +196,28 @@ const projects = [
     image: aluraGeeek,
     repo: 'https://github.com/EdwinPuello/AluraGeek',
     demo: 'https://edwinpuello.github.io/AluraGeek/',
+  },
+  {
+    id: 'project-4',
+    name: 'AluraFlix',
+    description: 'projects.description4',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'mongodb',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'tailwind',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: aluraFlix,
+    repo: 'https://github.com/EdwinPuello/AluraFlix',
+    demo: 'https://edwinpuello.github.io/AluraFlix/',
   },
 ];
 

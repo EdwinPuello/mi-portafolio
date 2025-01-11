@@ -18,7 +18,7 @@ const resources = {
       about: {
         sectionSubText: "A little about me",
         sectionHeadText: "Introduction.",
-        description: "Hi! I'm Edwin Puello, a proud 26-year-old Colombian from Barranquilla with an immense love for web development technologies and mobile apps.",
+        description: "Hi! I'm Edwin Puello, a proud 27year-old Colombian from Barranquilla with an immense love for web development technologies and mobile apps.",
         description2: "In addition to being a code enthusiast, I’m a passionate gamer, a football fan, and of course, a huge dog lover!",
         description3: "I’m thrilled to collaborate with people and teams who share my passion for creating extraordinary experiences. Your visit to my portfolio means a lot to me!"
       },
@@ -53,7 +53,8 @@ const resources = {
       description: "Here are some of my most notable projects, with brief descriptions, links to repositories, and live demos. Despite my work commitments, I make time for my personal projects and will keep adding more as I go along.",
       description1: "It consists of an encryptor and decryptor for text based on specific rules.",
       description2: "It consists of a personal project to manage the sales of my own business.",
-      description3: "It consists of a project that manipulates the DOM using JavaScript, featuring product listings and the ability to add and remove items."
+      description3: "It consists of a project that manipulates the DOM using JavaScript, featuring product listings and the ability to add and remove items.",
+      description4: "AluraFlix is a React project for managing videos, offering functionalities like adding, editing, and deleting content while using Redux for state management."
     }
     }
   },
@@ -72,7 +73,7 @@ const resources = {
       about: {
         sectionSubText: "Un poco de mí",
         sectionHeadText: "Introducción.",
-        description: "¡Hola! Soy Edwin Puello, un colombiano orgullosamente de Barranquilla de 26 años con un amor desmedido por las tecnologías del desarrollo web y las apps móviles.",
+        description: "¡Hola! Soy Edwin Puello, un colombiano orgullosamente de Barranquilla de 27 años con un amor desmedido por las tecnologías del desarrollo web y las apps móviles.",
         description2: "Además de ser un apasionado del código, soy un gamer entusiasta, un aficionado al fútbol y, por supuesto, ¡un gran amante de los perros!",
         description3: "Me emociona un montón colaborar con personas y equipos que comparten mi pasión por crear experiencias extraordinarias. ¡Tu visita a mi portafolio significa mucho para mí!"
       },
@@ -107,7 +108,8 @@ const resources = {
         description: "A continuación, presento algunos de mis proyectos más destacados, con breves descripciones, y algunos con enlaces a repositorios y todos con demos en vivo. A pesar de mis compromisos laborales, me esfuerzo por dedicar tiempo a mis proyectos personales, y seguiré añadiendo más a medida que avance.",
         description1: "Consiste en un encriptador y desencriptador de texto basado en reglas específicas.",
         description2: "Consiste en un proyecto personal para poder administrar las ventas de mi propio negocio.",
-        description3: "Consiste en un proyecto que manipula el DOM con JavaScript, donde tenemos listados de productos y la capacidad de agregar y eliminar elementos."
+        description3: "Consiste en un proyecto que manipula el DOM con JavaScript, donde tenemos listados de productos y la capacidad de agregar y eliminar elementos.",
+        description4: "AluraFlix es un proyecto en React para gestionar videos, con funcionalidades como agregar, editar y eliminar contenido, utilizando Redux para la gestión del estado."
       }
     }
   }

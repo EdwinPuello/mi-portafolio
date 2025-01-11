@@ -53,9 +53,11 @@ import phone from './icons/phone.png'
 import angular from './tech/angular.png'
 import ionic from './tech/ionic.png'
 import aluraGeeek from './projects/aluraGeek.png'
+import aluraFlix from './projects/aluraFlix.png'
 
 export {
   edwin,
+  aluraFlix,
   ventanaAlMundo,
   ionic,
   angular,
