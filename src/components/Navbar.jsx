@@ -52,16 +52,14 @@ const Navbar = () => {
               <a href={`#${nav.id}`}>{t(nav.titleKey)}</a>
             </li>
           ))}
-          <li>
-            <li onClick={() => changeLanguage('es')} className={` '
-            hover:text-taupe text-eerieBlack text-[21px] font-medium 
-              uppercase tracking-[3px] cursor-pointer nav-links`}>
-              <a>Español</a>
-            </li>
+          <li
+            onClick={() => changeLanguage('es')}
+            className="hover:text-taupe text-eerieBlack text-[21px] font-medium uppercase tracking-[3px] cursor-pointer nav-links">
+            Español
           </li>
-          <li onClick={() => changeLanguage('en')} className={` '
-            hover:text-taupe text-eerieBlack text-[21px] font-medium 
-              uppercase tracking-[3px] cursor-pointer nav-links`}>
+          <li
+            onClick={() => changeLanguage('en')}
+            className="hover:text-taupe text-eerieBlack text-[21px] font-medium uppercase tracking-[3px] cursor-pointer nav-links">
             English
           </li>
           <div>
@@ -99,12 +97,14 @@ const Navbar = () => {
                     <a href={`#${nav.id}`}>{t(nav.titleKey)}</a>
                   </li>
                 ))}
-                <li>
-                  <li onClick={() => changeLanguage('es')} className={`text-eerieBlack lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[25px] mt-[20px] font-bold   uppercase tracking-[1px] cursor-pointer`}>
-                    <a>Español</a>
-                  </li>
+                <li
+                  onClick={() => changeLanguage('es')}
+                  className="text-eerieBlack lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[25px] mt-[20px] font-bold uppercase tracking-[1px] cursor-pointer">
+                  Español
                 </li>
-                <li onClick={() => changeLanguage('en')} className={`text-eerieBlack lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[25px] mt-[20px] font-bold   uppercase tracking-[1px] cursor-pointer`}>
+                <li
+                  onClick={() => changeLanguage('en')}
+                  className="text-eerieBlack lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[25px] mt-[20px] font-bold uppercase tracking-[1px] cursor-pointer">
                   English
                 </li>
               </ul>
