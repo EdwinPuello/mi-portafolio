@@ -14,13 +14,13 @@ import {
   komikult,
   aluraGeeek,
   leaderboard,
-  math,
-  movie,
   nyeusi,
   space,
   coverhunt,
   dcc,
   aluraFlix,
+  novaFid,
+  integrador,
   kelhel,
   microverse,
   phone,
@@ -218,6 +218,50 @@ const projects = [
     image: aluraFlix,
     repo: 'https://github.com/EdwinPuello/AluraFlix',
     demo: 'https://edwinpuello.github.io/AluraFlix/',
+  },
+  {
+    id: 'project-5',
+    name: 'NovaFid',
+    description: 'projects.description5',
+    tags: [
+      {
+        name: 'fintech',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'blockchain',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'pagos',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: novaFid,
+    repo: '',
+    demo: 'https://novafidwallet.com/',
+  },
+  {
+    id: 'project-6',
+    name: 'Integrador',
+    description: 'projects.description6',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'crud',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'tailwind',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: integrador,
+    repo: '',
+    demo: 'https://merry-lokum-f27bd3.netlify.app/',
   },
 ];
 

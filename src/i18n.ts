@@ -54,7 +54,9 @@ const resources = {
       description1: "It consists of an encryptor and decryptor for text based on specific rules.",
       description2: "It consists of a personal project to manage the sales of my own business.",
       description3: "It consists of a project that manipulates the DOM using JavaScript, featuring product listings and the ability to add and remove items.",
-      description4: "AluraFlix is a React project for managing videos, offering functionalities like adding, editing, and deleting content while using Redux for state management."
+      description4: "AluraFlix is a React project for managing videos, offering functionalities like adding, editing, and deleting content while using Redux for state management.",
+      description5: "Platform focused on technology, digital assets, and smart payments, designed to offer modern and secure financial solutions.",
+      description6: "Web application for managing users and products, featuring full CRUD operations and an intuitive interface."
     }
     }
   },
@@ -109,7 +111,9 @@ const resources = {
         description1: "Consiste en un encriptador y desencriptador de texto basado en reglas específicas.",
         description2: "Consiste en un proyecto personal para poder administrar las ventas de mi propio negocio.",
         description3: "Consiste en un proyecto que manipula el DOM con JavaScript, donde tenemos listados de productos y la capacidad de agregar y eliminar elementos.",
-        description4: "AluraFlix es un proyecto en React para gestionar videos, con funcionalidades como agregar, editar y eliminar contenido, utilizando Redux para la gestión del estado."
+        description4: "AluraFlix es un proyecto en React para gestionar videos, con funcionalidades como agregar, editar y eliminar contenido, utilizando Redux para la gestión del estado.",
+        description5: "Plataforma enfocada en tecnología, activos digitales y pagos inteligentes, diseñada para ofrecer soluciones financieras modernas y seguras.",
+        description6: "Aplicación web para la gestión de usuarios y productos, con operaciones CRUD completas e interfaz intuitiva."
       }
     }
   }

@@ -54,6 +54,8 @@ import angular from './tech/angular.png'
 import ionic from './tech/ionic.png'
 import aluraGeeek from './projects/aluraGeek.png'
 import aluraFlix from './projects/aluraFlix.png'
+import novaFid from './projects/NovaFid.png'
+import integrador from './projects/inegrador.png'
 
 export {
   edwin,
@@ -108,4 +110,6 @@ export {
   kelhel,
   microverse,
   aluraGeeek,
+  novaFid,
+  integrador,
 };
